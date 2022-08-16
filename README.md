@@ -4,6 +4,10 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 
 
 - 🌱 I'm currently study Machine Learning for Data Analysis (<a href = "https://github.com/pruhlo/notes-for-Data-Science">look at my repository</a>)
+
+- 📫 How to reach me: e.s.pruglo1986@gmail.com
+
+
 <!--
 **pruhlo/pruhlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
