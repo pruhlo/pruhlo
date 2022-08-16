@@ -1,5 +1,9 @@
 ### Hi, I'm Yevhean 👋
+Beginner date scientist.
+The thing is, I'm not a total beginner in data science. In my scientific <a href='https://scholar.google.com/citations?user=kdQk3MkAAAAJ&hl=ru'>works</a>, I use knowledge about the measures of the central tendency of sample populations, their distribution, and intergroup comparison. Were found relationships between chemical structure  and  targets property of studied compounds. Conducted regression analysis (linear, polynomial, logit- and probit).
 
+
+- 🌱 I'm currently study Machine Learning for Data Analysis (<a href = "https://github.com/pruhlo/notes-for-Data-Science">look at my repository</a>)
 <!--
 **pruhlo/pruhlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
