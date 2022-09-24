@@ -5,7 +5,7 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 
 
 <p align='center'>
-   🌱 I'm currently study Machine Learning for Data Analysis (<a href = "https://github.com/pruhlo/notes-for-Data-Science">look at my repository</a>)
+   🌱 I'm currently study Data Science (<a href = "https://github.com/pruhlo/data-science-notes">look at my repository</a>)
 </p>
 <p align='center'>
    📫 How to reach me: <a href='mailto:e.s.pruglo1986@gmail.com'>e.s.pruglo1986@gmail.com</a>
