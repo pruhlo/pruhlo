@@ -43,13 +43,11 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 
 
 
-## 📈 GitHub Statistics 📊
+### 📈 GitHub Statistics 📊
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pruhlo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pruhlo's github stats" />
 
-<!--[![pruhlo GitHub stats](https://github-readme-stats.vercel.app/api?username=pruhlo)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruhlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruhlo)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/pruhlo/github-profile-views-counter">
