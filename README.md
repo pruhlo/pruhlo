@@ -47,11 +47,12 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 
 [![pruhlo GitHub stats](https://github-readme-stats.vercel.app/api?username=pruhlo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruhlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruhlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruhlo)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/pruhlo/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=KlukvaMors&color=DE002D">
-   </a> -->
+       <img width="175px" src="https://komarev.com/ghpvc/?username=pruhlo&color=DE002D">
+   </a>
 
 <!--
 **pruhlo/pruhlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
