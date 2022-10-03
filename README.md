@@ -38,6 +38,7 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 ![](https://img.shields.io/badge/RStudio-blue?&logo=rstudio&logoColor=purpure)
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)
 ### 👨‍💻 Operating system
 
 
