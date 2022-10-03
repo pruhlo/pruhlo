@@ -7,9 +7,10 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 <p align='center'>
    🌱 I'm currently study Data Science (<a href = "https://github.com/pruhlo/data-science-notes">look at my repository</a>)
 </p>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:e.s.pruglo1986@gmail.com'>e.s.pruglo1986@gmail.com</a>
-</p>
+
+## 📱 Contact
+<a href="mailto:e.s.pruglo1986@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/@I_amEugene"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
 
 ## 🛠️ Technologies
 
@@ -33,8 +34,10 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 ### 🔨 Tools
 ![](https://img.shields.io/badge/jupyter-FA0F00.svg?&logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/RStudio-blue?&logo=rstudio&logoColor=purpure)
-
+![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ### 👨‍💻 Operating system
 
 
