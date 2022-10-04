@@ -10,7 +10,7 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 
 ## 📱 Contact
 <a href="mailto:e.s.pruglo1986@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/@I_amEugene"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/I_amEugene"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
 
 ## 🛠️ Technologies
 
