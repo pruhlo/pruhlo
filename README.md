@@ -11,7 +11,7 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 ## 📱 Contact
 <a href="mailto:e.s.pruglo1986@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/I_amEugene"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yevgean-pruglo-2954b816b/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/pruhlo/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
 ## 🛠️ Technologies
 
 ### 🏆 Main stack
@@ -26,6 +26,8 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 ![](https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white)
 ![](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=eee)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 
 
 
@@ -45,9 +47,11 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
 ### 👨‍💻 Operating system
 
 
+![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 ![](https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)
 
@@ -78,4 +82,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk <<<<BADGES>>>> https://ileriayo.github.io/markdown-badges/ -->
 <!-- https://www.base64-image.de/ -->
