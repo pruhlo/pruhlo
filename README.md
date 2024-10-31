@@ -48,6 +48,9 @@ The thing is, I'm not a total beginner in data science. In my scientific <a href
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+
 ### 👨‍💻 Operating system
 
 
@@ -84,3 +87,4 @@ Here are some ideas to get you started:
 -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk <<<<BADGES>>>> https://ileriayo.github.io/markdown-badges/ -->
 <!-- https://www.base64-image.de/ -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
