@@ -1,6 +1,6 @@
 # Hi, I'm Yevhen 👋
 Beginner data scientist.
-The thing is, I'm not a total beginner in data science. In my scientific <a href='https://scholar.google.com/citations?user=kdQk3MkAAAAJ&hl=ru'>works</a>, I use knowledge about the measures of the central tendency of sample populations, their distribution, and intergroup comparison. Were found relationships between chemical structure  and  targets property of studied compounds. Conducted regression analysis (linear, polynomial, logit- and probit).
+The thing is, I'm not a total beginner in data science. In my scientific <a href='https://scholar.google.com/citations?user=kdQk3MkAAAAJ'>works</a>, I use knowledge about the measures of the central tendency of sample populations, their distribution, and intergroup comparison. Were found relationships between chemical structure  and  targets property of studied compounds. Conducted regression analysis (linear, polynomial, logit- and probit).
 
 
 
