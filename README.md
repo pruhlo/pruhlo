@@ -1,12 +1,7 @@
 # Hi, I'm Yevhen 👋
-Beginner data scientist.
-The thing is, I'm not a total beginner in data science. In my scientific <a href='https://scholar.google.com/citations?user=kdQk3MkAAAAJ'>works</a>, I use knowledge about the measures of the central tendency of sample populations, their distribution, and intergroup comparison. Were found relationships between chemical structure  and  targets property of studied compounds. Conducted regression analysis (linear, polynomial, logit- and probit).
+I’m a data engineer and computational chemistry researcher focused on building scalable cloud architectures and developing AI-driven solutions for molecular design. My work connects AWS and Azure cloud platforms, machine learning, cheminformatics, and high-performance backend engineering.
 
-
-
-<p align='center'>
-   🌱 I'm currently study Data Science (<a href = "https://github.com/pruhlo/data-science-notes">look at my repository</a>)
-</p>
+I specialize in creating secure, distributed microservices, designing robust API ecosystems, and building automated data-processing pipelines for both scientific and enterprise environments. In the research domain, I develop models for SMILES-based molecular generation, biological activity prediction, and chemical space exploration, combining classical ML approaches with modern Large Language Models.
 
 ## 📱 Contact
 <a href="mailto:e.s.pruglo1986@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?logo=gmail&logoColor=white"/></a>
