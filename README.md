@@ -35,15 +35,18 @@ I specialize in creating secure, distributed microservices, designing robust API
 
 
 ### 🔨 Tools
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claudecode&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?logo=ollama&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?logo=perplexity&logoColor=088F8F)
+![](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/jupyter-FA0F00.svg?&logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/RStudio-blue?&logo=rstudio&logoColor=purpure)
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache%20Airflow&logoColor=white)
 
 
 ### 👨‍💻 Operating system
